@@ -1,1 +1,1 @@
-Soft actor-ctiric
+Code to create soft actor-critic agent in Majoco lib.
